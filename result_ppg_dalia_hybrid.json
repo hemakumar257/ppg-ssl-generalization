@@ -1,0 +1,8 @@
+{
+    "dataset": "ppg_dalia",
+    "model": "hybrid",
+    "test_mae": 26.51,
+    "val_mae": 26.00,
+    "training_time": 0,
+    "history": {}
+}

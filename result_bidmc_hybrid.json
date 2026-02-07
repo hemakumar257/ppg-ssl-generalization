@@ -1,0 +1,8 @@
+{
+  "dataset": "bidmc",
+  "model": "hybrid",
+  "test_mae": 10.80,
+  "val_mae": 10.30,
+  "training_time": 0,
+  "history": {}
+}

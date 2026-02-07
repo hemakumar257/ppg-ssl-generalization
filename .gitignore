@@ -1,0 +1,10 @@
+Datasets/
+preprocessed_data/
+*.pth
+.venv/
+__pycache__/
+*.log
+test_output/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
